@@ -1,3 +1,3 @@
 # My awesome webpage
 
-Code for pertturistimella.com.
+Code for pertturistimella.com
